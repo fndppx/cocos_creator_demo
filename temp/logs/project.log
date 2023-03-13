@@ -1,0 +1,985 @@
+2023-03-13T11:55:03.158Z - verbose: Arguments:
+2023-03-13T11:55:03.159Z - verbose:   /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/MacOS/CocosCreator: true
+2023-03-13T11:55:03.159Z - verbose:   project: /Users/apple/Desktop/cocos_creator/MindYourStep
+2023-03-13T11:55:03.159Z - verbose:   dev: false
+2023-03-13T11:55:03.159Z - verbose:   home: /Users/apple/.CocosCreator
+2023-03-13T11:55:03.159Z - verbose:  
+2023-03-13T11:55:07.873Z - verbose: [Package] menu@1.0.0 enable
+2023-03-13T11:55:07.876Z - verbose: [Package] profile@1.0.0 enable
+2023-03-13T11:55:07.888Z - verbose: [Package] project@1.0.4 enable
+2023-03-13T11:55:07.894Z - verbose: [Package] messages@1.0.0 enable
+2023-03-13T11:55:07.920Z - verbose: [Package] program@1.0.3 enable
+2023-03-13T11:55:07.926Z - verbose: [Package] tester@1.0.0 enable
+2023-03-13T11:55:07.928Z - verbose: [Package] information@1.0.0 enable
+2023-03-13T11:55:07.935Z - verbose: [Package] preferences@1.0.0 enable
+2023-03-13T11:55:11.610Z - log: Load engine in /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine
+2023-03-13T11:55:12.172Z - log: Register native engine in /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/native
+2023-03-13T11:55:12.174Z - verbose: [Package] engine@1.0.7 enable
+2023-03-13T11:55:13.102Z - verbose: [Package] programming@1.0.0 enable
+2023-03-13T11:55:13.108Z - verbose: [Package] device@1.0.1 enable
+2023-03-13T11:55:13.114Z - verbose: [Package] ui-kit@1.0.1 enable
+2023-03-13T11:55:13.226Z - verbose: [Package] asset-db@1.0.0 enable
+2023-03-13T11:55:13.291Z - verbose: [Package] scene@1.0.0 enable
+2023-03-13T11:55:13.527Z - verbose: [Package] server@1.0.0 enable
+2023-03-13T11:55:13.564Z - verbose: [Package] utils@1.0.0 enable
+2023-03-13T11:55:20.078Z - verbose: [Package] preview@1.0.1 enable
+2023-03-13T11:55:20.120Z - verbose: [Package] animator@1.0.0 enable
+2023-03-13T11:55:20.367Z - verbose: [Build-plugin] register pkg scene: 2ms
+2023-03-13T11:55:20.367Z - verbose: Builder PluginManager init: 2ms
+2023-03-13T11:55:20.374Z - verbose: [Package] builder@1.3.4 enable
+2023-03-13T11:55:20.414Z - verbose: [Package] shortcuts@1.0.1 enable
+2023-03-13T11:55:20.453Z - verbose: [Package] animation-graph@1.0.0 enable
+2023-03-13T11:55:20.489Z - verbose: [Package] about@1.0.0 enable
+2023-03-13T11:55:20.528Z - verbose: [Package] assets@1.0.0 enable
+2023-03-13T11:55:20.566Z - verbose: [Package] console@1.0.0 enable
+2023-03-13T11:55:20.831Z - verbose: [Package] crash-reporter@1.0.0 enable
+2023-03-13T11:55:21.147Z - verbose: [Package] extension@3.1.0 enable
+2023-03-13T11:55:21.195Z - verbose: [Package] hierarchy@1.0.0 enable
+2023-03-13T11:55:21.239Z - verbose: [Package] inspector@1.0.0 enable
+2023-03-13T11:55:21.281Z - verbose: [Package] light-probe@1.0.4 enable
+2023-03-13T11:55:21.341Z - verbose: [Package] lightmap@1.0.4 enable
+2023-03-13T11:55:21.382Z - verbose: [Package] node-library@1.0.1 enable
+2023-03-13T11:55:21.420Z - verbose: [Package] package-asset@1.0.1 enable
+2023-03-13T11:55:21.680Z - verbose: [Package] cocos-service@3.0.6 enable
+2023-03-13T11:55:21.720Z - verbose: [Build-plugin] register pkg cocos-service: 38ms
+2023-03-13T11:55:21.731Z - verbose: [Package] process@1.0.0 enable
+2023-03-13T11:55:21.769Z - verbose: [Package] reference-image@1.0.0 enable
+2023-03-13T11:55:21.807Z - verbose: [Package] reflection-probe@1.0.4 enable
+2023-03-13T11:55:21.842Z - verbose: [Package] engine-extends@1.0.0 enable
+2023-03-13T11:55:21.866Z - verbose: [Package] alipay-mini-game@1.0.1 enable
+2023-03-13T11:55:21.894Z - verbose: [Package] android@1.0.1 enable
+2023-03-13T11:55:21.957Z - verbose: [Package] bytedance-mini-game@1.0.2 enable
+2023-03-13T11:55:21.995Z - verbose: [Package] certificate@1.0.0 enable
+2023-03-13T11:55:22.019Z - verbose: [Package] channel-upload-tools@1.0.0 enable
+2023-03-13T11:55:22.043Z - verbose: [Package] fb-instant-games@1.0.0 enable
+2023-03-13T11:55:22.056Z - verbose: [Build-plugin] register pkg android: 162ms
+2023-03-13T11:55:22.071Z - verbose: [Package] huawei-agc@1.0.0 enable
+2023-03-13T11:55:22.110Z - verbose: [Package] huawei-quick-game@1.0.1 enable
+2023-03-13T11:55:27.244Z - verbose: [Package] ios@1.0.0 enable
+2023-03-13T11:55:27.249Z - verbose: [Build-plugin] register pkg bytedance-mini-game: 5292ms
+2023-03-13T11:55:27.271Z - verbose: [Package] linux@1.0.0 enable
+2023-03-13T11:55:27.291Z - verbose: [Build-plugin] register pkg fb-instant-games: 5248ms
+2023-03-13T11:55:27.294Z - verbose: [Package] mac@1.0.0 enable
+2023-03-13T11:55:27.299Z - verbose: [Build-plugin] register pkg huawei-agc: 5228ms
+2023-03-13T11:55:27.380Z - verbose: [Package] native@1.0.2 enable
+2023-03-13T11:55:27.423Z - verbose: [Build-plugin] register pkg native: 43ms
+2023-03-13T11:55:27.424Z - verbose: [Build-plugin] register pkg ios: 180ms
+2023-03-13T11:55:27.426Z - verbose: [Build-plugin] register pkg huawei-quick-game: 5316ms
+2023-03-13T11:55:27.430Z - verbose: [Package] ohos@1.0.0 enable
+2023-03-13T11:55:27.454Z - verbose: [Package] open-harmonyos@1.0.0 enable
+2023-03-13T11:55:27.480Z - verbose: [Package] oppo-mini-game@1.0.1 enable
+2023-03-13T11:55:27.484Z - verbose: [Build-plugin] register pkg mac: 190ms
+2023-03-13T11:55:27.505Z - verbose: [Package] runtime-dev-tools@1.0.0 enable
+2023-03-13T11:55:27.523Z - verbose: [Build-plugin] register pkg ohos: 93ms
+2023-03-13T11:55:27.527Z - verbose: [Package] taobao-creative-app@1.0.0 enable
+2023-03-13T11:55:27.556Z - verbose: [Package] vivo-mini-game@1.0.1 enable
+2023-03-13T11:55:27.561Z - verbose: [Build-plugin] register pkg oppo-mini-game: 81ms
+2023-03-13T11:55:27.602Z - verbose: [Package] web-desktop@1.0.1 enable
+2023-03-13T11:55:27.634Z - verbose: [Package] web-mobile@1.0.1 enable
+2023-03-13T11:55:27.677Z - verbose: [Package] wechatgame@1.0.2 enable
+2023-03-13T11:55:27.683Z - verbose: [Build-plugin] register pkg vivo-mini-game: 127ms
+2023-03-13T11:55:27.685Z - verbose: [Build-plugin] register pkg taobao-creative-app: 158ms
+2023-03-13T11:55:27.720Z - verbose: [Package] windows@1.0.1 enable
+2023-03-13T11:55:27.747Z - verbose: [Package] xiaomi-quick-game@1.0.1 enable
+2023-03-13T11:55:28.079Z - verbose: [Package] im-plugin@3.0.10 enable
+2023-03-13T11:55:28.082Z - verbose: [Build-plugin] register pkg wechatgame: 405ms
+2023-03-13T11:55:28.084Z - verbose: [Build-plugin] register pkg web-desktop: 482ms
+2023-03-13T11:55:28.085Z - verbose: [Build-plugin] register pkg windows: 365ms
+2023-03-13T11:55:28.087Z - verbose: [Build-plugin] register pkg web-mobile: 453ms
+2023-03-13T11:55:28.125Z - verbose: [Package] placeholder@1.0.0 enable
+2023-03-13T11:55:28.129Z - verbose: [Build-plugin] register pkg xiaomi-quick-game: 382ms
+2023-03-13T11:55:28.158Z - verbose: asset-db is ready!
+2023-03-13T11:55:31.618Z - info: [Scene] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T11:55:31.629Z - info: [Scene] [PHYSICS]: using builtin.
+2023-03-13T11:55:31.749Z - log: [Scene] Cocos Creator v3.7.1
+2023-03-13T11:55:31.750Z - info: [Scene] Forward render pipeline initialized.
+2023-03-13T11:55:31.891Z - warn: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at ScriptManager.init (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3557)Error: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at ScriptManager.init (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3557)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T11:55:31.893Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T11:55:31.943Z - info: [Scene] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T11:55:31.997Z - info: [Scene] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T11:55:32.849Z - warn: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)Error: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T11:55:32.849Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T11:56:33.316Z - error: [Preview]undefinederrorInfo.stack ? '/n undefined' : ''
+2023-03-13T11:56:33.336Z - error: [Preview]undefinederrorInfo.stack ? '/n undefined' : ''
+2023-03-13T11:57:07.053Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-13T11:57:07.053Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-03-13T11:58:59.676Z - warn: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)Error: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T11:58:59.676Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T11:59:08.319Z - warn: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)Error: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T11:59:08.320Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T11:59:19.398Z - warn: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)Error: [Scene] Found possible circular reference in "pack:///chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/4a60e0d6436eb50921bff103f5250814fe0ad32f.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/4a/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T11:59:19.398Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T12:02:36.462Z - info: [Preview] preview process is ready
+2023-03-13T12:03:00.077Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:03:00.093Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:03:00.220Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:03:00.220Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:03:00.359Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:03:00.402Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:03:01.759Z - log: [Preview] init!!!!!
+2023-03-13T12:03:21.132Z - log: [Preview] 开始游戏
+2023-03-13T12:04:16.281Z - warn: Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: timer-util.ccc:1:1163
+2023-03-13T12:04:17.570Z - info: [Preview] preview process is ready
+2023-03-13T12:04:17.652Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:04:17.671Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:04:17.808Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:04:17.808Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:04:17.939Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:04:17.982Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:04:19.269Z - log: [Preview] init!!!!!
+2023-03-13T12:04:19.314Z - log: [Preview] setInputActive?>>>>>>
+2023-03-13T12:04:21.247Z - log: [Preview] 开始游戏
+2023-03-13T12:04:21.249Z - log: [Preview] setInputActive?>>>>>>
+2023-03-13T12:04:47.522Z - warn: Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: timer-util.ccc:1:1163
+2023-03-13T12:04:48.800Z - info: [Preview] preview process is ready
+2023-03-13T12:04:48.899Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:04:48.918Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:04:49.061Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:04:49.061Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:04:49.187Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:04:49.231Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:04:50.517Z - log: [Preview] init!!!!!
+2023-03-13T12:04:50.558Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T12:04:52.413Z - log: [Preview] 开始游戏
+2023-03-13T12:04:52.415Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T12:05:29.078Z - info: [Preview] preview process is ready
+2023-03-13T12:05:29.155Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:05:29.170Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:05:29.297Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:05:29.297Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:05:29.427Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:05:29.469Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:05:30.803Z - log: [Preview] init!!!!!
+2023-03-13T12:05:30.847Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T12:05:32.112Z - log: [Preview] 开始游戏
+2023-03-13T12:05:32.114Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T12:05:34.211Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:34.611Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:34.794Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:35.244Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:35.445Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:35.610Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:35.762Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:35.928Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:36.311Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:36.811Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:36.977Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:37.144Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:05:37.328Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:01.155Z - info: [Preview] preview process is ready
+2023-03-13T12:06:01.227Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:06:01.245Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:06:01.366Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:06:01.367Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:06:01.496Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:06:01.538Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:06:02.836Z - log: [Preview] init!!!!!
+2023-03-13T12:06:02.879Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T12:06:03.893Z - log: [Preview] 开始游戏
+2023-03-13T12:06:03.895Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T12:06:04.426Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:04.426Z - log: [Preview] 11111
+2023-03-13T12:06:05.060Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:05.060Z - log: [Preview] 11111
+2023-03-13T12:06:05.310Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:05.310Z - log: [Preview] 11111
+2023-03-13T12:06:05.509Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:05.509Z - log: [Preview] 11111
+2023-03-13T12:06:05.676Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:05.676Z - log: [Preview] 11111
+2023-03-13T12:06:05.843Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:05.843Z - log: [Preview] 11111
+2023-03-13T12:06:06.010Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:06.010Z - log: [Preview] 11111
+2023-03-13T12:06:06.309Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:06.310Z - log: [Preview] 11111
+2023-03-13T12:06:06.476Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:06.476Z - log: [Preview] 11111
+2023-03-13T12:06:20.826Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:20.826Z - log: [Preview] 11111
+2023-03-13T12:06:21.458Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:21.458Z - log: [Preview] 11111
+2023-03-13T12:06:22.086Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:22.086Z - log: [Preview] 11111
+2023-03-13T12:06:22.513Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:22.513Z - log: [Preview] 11111
+2023-03-13T12:06:22.695Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:22.695Z - log: [Preview] 11111
+2023-03-13T12:06:23.025Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:23.025Z - log: [Preview] 11111
+2023-03-13T12:06:23.178Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:23.178Z - log: [Preview] 11111
+2023-03-13T12:06:23.358Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:23.358Z - log: [Preview] 11111
+2023-03-13T12:06:23.725Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:23.726Z - log: [Preview] 11111
+2023-03-13T12:06:24.009Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:24.009Z - log: [Preview] 11111
+2023-03-13T12:06:24.159Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:24.159Z - log: [Preview] 11111
+2023-03-13T12:06:24.309Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:24.309Z - log: [Preview] 11111
+2023-03-13T12:06:24.461Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T12:06:24.461Z - log: [Preview] 11111
+2023-03-13T12:13:38.639Z - info: [Preview] preview process is ready
+2023-03-13T12:41:20.251Z - info: [Preview] preview process is ready
+2023-03-13T12:41:20.321Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:41:20.341Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:41:20.464Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:41:20.464Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:41:20.603Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:41:20.645Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:41:22.056Z - log: [Preview] init!!!!!
+2023-03-13T12:41:22.100Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:47:58.518Z - info: [Preview] preview process is ready
+2023-03-13T12:50:40.837Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-13T12:50:40.837Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-03-13T12:50:54.063Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:50:54.079Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:50:54.203Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:50:54.203Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:50:54.334Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:50:54.376Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:50:55.703Z - log: [Preview] init!!!!!
+2023-03-13T12:50:55.748Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:50:57.606Z - log: [Preview] 开始游戏
+2023-03-13T12:52:04.872Z - info: [Preview] preview process is ready
+2023-03-13T12:53:36.606Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:53:36.622Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:53:36.748Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:53:36.748Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:53:36.887Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:53:36.930Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:53:38.271Z - log: [Preview] init!!!!!
+2023-03-13T12:53:38.320Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:53:40.196Z - log: [Preview] 开始游戏
+2023-03-13T12:53:45.817Z - warn: [Preview] IPC message has been lost.Error: [Preview] IPC message has been lost.
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/webview.ccc:1:1518)
+    at EventEmitter.emit (events.js:315:20)
+    at Object.onMessage (electron/js2c/renderer_init.js:93:1117)
+2023-03-13T12:53:45.821Z - warn: [Preview] IPC message has been lost.Error: [Preview] IPC message has been lost.
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/webview.ccc:1:1518)
+    at EventEmitter.emit (events.js:315:20)
+    at Object.onMessage (electron/js2c/renderer_init.js:93:1117)
+2023-03-13T12:53:47.100Z - info: [Preview] preview process is ready
+2023-03-13T12:54:00.232Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:54:00.248Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:54:00.365Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:54:00.365Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:54:00.516Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:54:00.564Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:54:01.911Z - log: [Preview] init!!!!!
+2023-03-13T12:54:01.952Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:54:04.473Z - log: [Preview] 开始游戏
+2023-03-13T12:54:09.608Z - info: [Preview] preview process is ready
+2023-03-13T12:54:40.743Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:54:40.765Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:54:41.073Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:54:41.074Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:54:41.225Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:54:41.282Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:54:42.913Z - log: [Preview] init!!!!!
+2023-03-13T12:54:42.964Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:54:44.408Z - log: [Preview] 开始游戏
+2023-03-13T12:54:56.627Z - info: [Preview] preview process is ready
+2023-03-13T12:55:02.839Z - error: [Scene] Cannot read property 'colorTextures' of nullTypeError: Cannot read property 'colorTextures' of null
+    at PreviewBuffer.copyFrameBuffer (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/preview/buffer.ccc:1:3612)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/preview/buffer.ccc:1:5639
+    at Director.emit (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:143212:19)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21877:18)
+    at EngineManager.tickInEditMode (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/engine/index.ccc:1:2996)
+    at EngineManager._tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/engine/index.ccc:1:4061)
+2023-03-13T12:55:39.383Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:55:39.398Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:55:39.522Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:55:39.522Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:55:39.654Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:55:39.701Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:55:40.986Z - log: [Preview] init!!!!!
+2023-03-13T12:55:41.034Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:55:45.147Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-13T12:55:45.147Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-03-13T12:55:46.489Z - info: [Preview] preview process is ready
+2023-03-13T12:57:30.690Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T12:57:30.706Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T12:57:30.825Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T12:57:30.825Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T12:57:30.955Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T12:57:30.998Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T12:57:32.311Z - log: [Preview] init!!!!!
+2023-03-13T12:57:32.357Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T12:57:35.595Z - log: [Preview] 开始游戏
+2023-03-13T12:57:48.089Z - info: [Preview] preview process is ready
+2023-03-13T13:00:17.085Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T13:00:17.109Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T13:00:17.340Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T13:00:17.340Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T13:00:17.536Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T13:00:17.598Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T13:00:19.323Z - log: [Preview] init!!!!!
+2023-03-13T13:00:19.367Z - error: [Preview] Cannot read property 'reset' of nullTypeError: Cannot read property 'reset' of null
+    at GameManager.init (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:68:25)
+    at GameManager.set curState [as curState] (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:74:22)
+    at GameManager.start (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:40:9)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57045:16)
+    at OneOffInvoker.eval [as _invoke] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56858:9)
+    at OneOffInvoker.invoke (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:56974:16)
+    at ComponentScheduler.startPhase (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:57240:29)
+    at Director.tick (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:21848:35)
+    at Game._updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:22762:22)
+    at updateCallback (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:92556:22)
+2023-03-13T13:03:35.296Z - warn: Attempting to call a function in a renderer window that has been closed or released.
+Function provided here: timer-util.ccc:1:1163
+2023-03-13T13:03:36.755Z - info: [Preview] preview process is ready
+2023-03-13T13:06:10.730Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-13T13:06:10.730Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-03-13T13:12:02.887Z - warn: [Scene] Found possible circular reference in "pack:///chunks/95/9521b44990ade1efbe8f1a1a97d72e00730d1c57.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)Error: [Scene] Found possible circular reference in "pack:///chunks/95/9521b44990ade1efbe8f1a1a97d72e00730d1c57.js", happened when use "PlayerController" imported from "./PlayerController"  Error: 
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Executor.reload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:155:9)
+    at GlobalEnv.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:1876)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at Module.report (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/84/cce:/internal/code-quality/cr.mjs:15:13)
+    at _reportPossibleCrUseOfPlayerController (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/9521b44990ade1efbe8f1a1a97d72e00730d1c57.js:13:17)
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/95/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts:29:20)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+2023-03-13T13:12:02.887Z - warn: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+                              // When importing './bar', execution of './bar' is hung on to wait execution of 'foo.ts',
+                              // the `Bar` imported here is `undefined` until './bar' finish its execution.
+                              // It leads to that
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}Error: [Scene] You are explicitly specifying `undefined` type to cc property "playerCtrl" of cc class "GameManager".
+Is this intended? If not, this may indicate a circular reference.
+For example:
+
+ 
+// foo.ts
+import { _decorator } from 'cc';
+import { Bar } from './bar';  // Given that './bar' also reference 'foo.ts'.
+@_decorator.ccclass           //  ↓
+export class Foo {            //  ↓
+    @_decorator.type(Bar)     //  → is equivalent to `@_decorator.type(undefined)`
+    public bar: Bar;          // To eliminate this error, either:
+                              // - Refactor your module structure(recommended), or
+                              // - specify the type as cc class name: `@_decorator.type('Bar'/* or any name you specified for `Bar` */)`
+}
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1260)
+    at warn (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160026:12)
+    at warnID (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:160245:5)
+    at parseAttributes (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141318:7)
+    at defineProp (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141013:5)
+    at declareProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141211:11)
+    at CCClass (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:141242:5)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:280545:21)
+2023-03-13T13:16:31.534Z - warn: [Scene] Can not remove the animation clip being edited in the animation editing modeError: [Scene] Can not remove the animation clip being edited in the animation editing mode
+    at AnimationSceneFacade.setNodeProperty (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/animation-scene-facade.ccc:1:3437)
+    at SceneFacadeManager.setNodeProperty (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:9935)
+    at step (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:748)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:1617
+    at new Promise (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:1554
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/webview.ccc:1:1013)
+2023-03-13T13:16:54.576Z - warn: [Scene] Can not remove the animation clip being edited in the animation editing modeError: [Scene] Can not remove the animation clip being edited in the animation editing mode
+    at AnimationSceneFacade.setNodeProperty (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/animation-scene-facade.ccc:1:3437)
+    at SceneFacadeManager.setNodeProperty (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/facade/scene-facade-manager.ccc:1:9935)
+    at step (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:748)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:1617
+    at new Promise (<anonymous>)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/ipc.ccc:1:1554
+    at EventEmitter.<anonymous> (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/ipc/web/webview.ccc:1:1013)
+2023-03-13T13:33:13.316Z - error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} ReferenceError: SkeletalAnimation is not defined
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/02/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/PlayerController.ts:38:22)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:517:30)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)Error: [Scene] {hidden(::SceneExecutorImportExceptionHandler::)} ReferenceError: SkeletalAnimation is not defined
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:493:28
+    at Array.forEach (<anonymous>)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:491:10)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:440:12
+    at file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:8:13
+    at Object.execute (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/63/cce:/internal/x/prerequisite-imports:4:1)
+    at Executor._importPrerequisiteModules (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:267:13)
+    at Logger._logHandler (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/startup/log.ccc:1:318)
+    at Logger.record (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:458)
+    at console.error (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@base/electron-logger/lib/renderer.ccc:1:1414)
+    at ScriptManager._handleImportException (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:5259)
+    at Executor.importExceptionHandler [as _importExceptionHandler] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/scene/dist/script/3d/manager/scripts.ccc:1:3396)
+    at Executor._onModuleLoaded (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:316:22)
+    at SystemJS.onload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/src/executor/index.ts:77:18)
+    at triggerOnload (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:270:10)
+    at doExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:538:7)
+    at postOrderExec (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/node_modules/@editor/lib-programming/static/executor/systemjs-bridge/out/index.js:508:21)
+2023-03-13T13:33:13.319Z - warn: [Scene] Missing class: 19321bZPkBHT4OiKJzgSIw9Error: [Scene] Missing class: 19321bZPkBHT4OiKJzgSIw9
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2131)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:126351:34)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:38012:30)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37953:29)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:38161:38)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37987:40)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37959:29)
+2023-03-13T13:33:13.320Z - warn: [Scene] Missing class: 9d5cf+ipSFGRbaXR2mBD2s8Error: [Scene] Missing class: 9d5cf+ipSFGRbaXR2mBD2s8
+    at Object.classFinder (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:2131)
+    at _Deserializer.classFinder [as _classFinder] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:126351:34)
+    at _Deserializer._deserializeTypeTaggedObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:38012:30)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37953:29)
+    at _Deserializer._deserializeAndAssignField (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:38161:38)
+    at _Deserializer._deserializeArray (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37987:40)
+    at _Deserializer._deserializeObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:37959:29)
+2023-03-13T13:33:13.322Z - error: [Scene] Script "19321bZPkBHT4OiKJzgSIw9" attached to "Player" is missing or invalid. Detailed information:
+Node path: "Player"
+Script UUID: "193216d9-3e40-474f-83a2-289ce0488c3d"
+Class ID: "19321bZPkBHT4OiKJzgSIw9"
+Error: [Scene] Script "19321bZPkBHT4OiKJzgSIw9" attached to "Player" is missing or invalid. Detailed information:
+Node path: "Player"
+Script UUID: "193216d9-3e40-474f-83a2-289ce0488c3d"
+Class ID: "19321bZPkBHT4OiKJzgSIw9"
+
+    at report (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1156)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1252)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1893
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2355)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:825)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2148)
+2023-03-13T13:33:13.323Z - error: [Scene] Script "9d5cf+ipSFGRbaXR2mBD2s8" attached to "GameManager" is missing or invalid. Detailed information:
+Node path: "GameManager"
+Script UUID: "9d5cffa2-a521-4645-b697-4769810f6b3c"
+Class ID: "9d5cf+ipSFGRbaXR2mBD2s8"
+Error: [Scene] Script "9d5cf+ipSFGRbaXR2mBD2s8" attached to "GameManager" is missing or invalid. Detailed information:
+Node path: "GameManager"
+Script UUID: "9d5cffa2-a521-4645-b697-4769810f6b3c"
+Class ID: "9d5cf+ipSFGRbaXR2mBD2s8"
+
+    at report (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1156)
+    at reportByWalker (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1252)
+    at /Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/missing-class-reporter.ccc:1:1893
+    at ObjectWalkerBehavior.walk (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2355)
+    at ObjectWalkerBehavior.forEach (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:825)
+    at ObjectWalkerBehavior.parseObject (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:306)
+    at doWalkProperties (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/app.asar/builtin/engine/dist/editor-extends/missing-reporter/object-walker.ccc:1:2148)
+2023-03-13T13:37:26.012Z - log: [Window] Deprecated as of 10.7.0. highlight(lang, code, ...args) has been deprecated.
+2023-03-13T13:37:26.013Z - log: [Window] Deprecated as of 10.7.0. Please use highlight(code, options) instead.
+https://github.com/highlightjs/highlight.js/issues/2277
+2023-03-13T13:39:06.621Z - info: [Preview] preview process is ready
+2023-03-13T13:39:06.687Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T13:39:06.703Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T13:39:06.859Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T13:39:06.860Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T13:39:07.103Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T13:39:07.175Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T13:39:08.934Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:39:13.158Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:39:14.590Z - log: [Preview] onMouseUp>>>>>>
+2023-03-13T13:39:14.590Z - log: [Preview] onMouseUp>>>>>>111
+2023-03-13T13:39:14.590Z - error: [Preview] Error occurs in an event listener: mouse-upError: [Preview] Error occurs in an event listener: mouse-up
+    at Input._emitEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:24991:23)
+    at Input._dispatchOrPushEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:25127:18)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:25042:20)
+    at Eventified.emit (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:143212:19)
+    at MouseInputSource.eval [as _handleMouseUp] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:272894:31)
+    at MouseInputSource.dispatchMouseUpEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:272768:16)
+    at Input._dispatchMouseUpEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:24831:179)
+2023-03-13T13:39:14.645Z - error: [Preview] step is not definedReferenceError: step is not defined
+    at PlayerController.onMouseUp (file:///Users/apple/Desktop/cocos_creator/MindYourStep/temp/programming/packer-driver/targets/editor/chunks/76/file:/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/PlayerController.ts:66:26)
+    at Eventified.emit (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:143210:28)
+    at InputEventDispatcher.dispatchEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:24730:34)
+    at Input._emitEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:24987:31)
+    at Input._dispatchOrPushEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:25127:18)
+    at eval (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:25042:20)
+    at Eventified.emit (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:143212:19)
+    at MouseInputSource.eval [as _handleMouseUp] (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:272894:31)
+    at MouseInputSource.dispatchMouseUpEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:272768:16)
+    at Input._dispatchMouseUpEvent (/Applications/CocosCreator/Creator/3.7.1/CocosCreator.app/Contents/Resources/resources/3d/engine/bin/.cache/dev/editor/bundled/index.js:24831:179)
+2023-03-13T13:42:04.663Z - info: [Preview] preview process is ready
+2023-03-13T13:42:04.730Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T13:42:04.748Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T13:42:04.881Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T13:42:04.881Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T13:42:05.026Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T13:42:05.071Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T13:42:06.692Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:08.041Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:42:33.445Z - info: [Preview] preview process is ready
+2023-03-13T13:42:33.517Z - info: [Preview] [Physics][Bullet]: Using asmjs Bullet libs.
+2023-03-13T13:42:33.536Z - info: [Preview] [PHYSICS]: using builtin.
+2023-03-13T13:42:33.651Z - log: [Preview] Cocos Creator v3.7.1
+2023-03-13T13:42:33.652Z - info: [Preview] Forward render pipeline initialized.
+2023-03-13T13:42:33.794Z - info: [Preview] [PHYSICS]: switch from builtin to bullet.
+2023-03-13T13:42:33.842Z - info: [Preview] [PHYSICS2D]: switch from builtin to box2d.
+2023-03-13T13:42:35.451Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:36.629Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:42:37.124Z - log: [Preview] 11111
+2023-03-13T13:42:37.924Z - log: [Preview] 11111
+2023-03-13T13:42:38.756Z - log: [Preview] 11111
+2023-03-13T13:42:39.100Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:40.045Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:42:40.674Z - log: [Preview] 11111
+2023-03-13T13:42:41.306Z - log: [Preview] 11111
+2023-03-13T13:42:41.978Z - log: [Preview] 11111
+2023-03-13T13:42:42.557Z - log: [Preview] 11111
+2023-03-13T13:42:44.509Z - log: [Preview] 11111
+2023-03-13T13:42:45.289Z - log: [Preview] 11111
+2023-03-13T13:42:45.639Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:46.461Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:42:46.958Z - log: [Preview] 11111
+2023-03-13T13:42:47.958Z - log: [Preview] 11111
+2023-03-13T13:42:48.294Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:49.012Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:42:49.508Z - log: [Preview] 11111
+2023-03-13T13:42:50.724Z - log: [Preview] 11111
+2023-03-13T13:42:51.066Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:42:51.696Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:43:47.233Z - log: [Preview] 11111
+2023-03-13T13:43:47.565Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:43:49.019Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:43:49.782Z - log: [Preview] 11111
+2023-03-13T13:43:50.298Z - log: [Preview] 11111
+2023-03-13T13:43:51.135Z - log: [Preview] 11111
+2023-03-13T13:43:51.462Z - log: [Preview] setInputActive?>>>>>> false
+2023-03-13T13:43:52.268Z - log: [Preview] setInputActive?>>>>>> true
+2023-03-13T13:43:53.083Z - log: [Preview] 11111
+2023-03-13T13:51:49.421Z - warn: Metrics: no valid info

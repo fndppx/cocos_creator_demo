@@ -1,0 +1,12 @@
+{
+    "systemInfo": {
+        "arch": "x64",
+        "cpu": "Intel(R) Core(TM) i5-8257U CPU @ 1.40GHz",
+        "version": "Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:54 PDT 2022; root:xnu-8792.41.9~2/RELEASE_X86_64"
+    },
+    "sceneListMap": {
+        "78c5f188-6314-4306-9138-ddf3edaff5f1": "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/scene.scene",
+        "04bb247c-6a3a-4e24-9e2c-24794bd46bbd": "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/scene.scene"
+    },
+    "deviceMd5": "6460aae13f9c41e6b0a16aeb1146c30f"
+}
