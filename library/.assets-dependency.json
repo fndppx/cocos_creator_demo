@@ -1,0 +1,51 @@
+{
+  "uuid": {
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/body.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/helmet.mtl": [
+      "1baf0fc9-befa-459c-8bdd-af1a450a0319"
+    ]
+  },
+  "path": {
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel_ibm.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh_helmet.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.bin"
+    ],
+    "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.gltf": [
+      "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.bin"
+    ]
+  }
+}

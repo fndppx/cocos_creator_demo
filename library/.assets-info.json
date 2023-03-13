@@ -1,0 +1,414 @@
+{
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/folder.meta": {
+    "time": 1676439523943.5583
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scenes.meta": {
+    "time": 1676431499246.4365
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scenes": {
+    "time": 1678700862015.1868,
+    "uuid": "af769bd5-8d69-4672-8e80-44e6e3451a9a",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scenes/scene.scene.meta": {
+    "time": 1676431517769.696
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scenes/Main.scene.meta": {
+    "time": 1678691976514.6123
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scenes/Main.scene": {
+    "time": 1678691976509.8308,
+    "uuid": "cb2ec69d-c741-494d-afa1-ec25d8f9c81f",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripte.meta": {
+    "time": 1676439523943.5583
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts.meta": {
+    "time": 1676439523943.5583
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts": {
+    "time": 1678700868254.4888,
+    "uuid": "53b691c5-3227-433c-80b3-8d85ae62a034",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/Player.ts.meta": {
+    "time": 1676439552587.5352
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/PlayerController.ts.meta": {
+    "time": 1678691962895.015
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/PlayerController.ts": {
+    "time": 1678715437978.6685,
+    "uuid": "193216d9-3e40-474f-83a2-289ce0488c3d",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/scene.scene.meta": {
+    "time": 1678694669443.9573
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/scene.scene": {
+    "time": 1678715289056.0962,
+    "uuid": "04bb247c-6a3a-4e24-9e2c-24794bd46bbd",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations.meta": {
+    "time": 1678694902833.4812
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations": {
+    "time": 1678700600800.2837,
+    "uuid": "26b47b1c-33a4-40f2-a6d3-8907048083b0",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations/oneStep.anim.meta": {
+    "time": 1678694958262.6396
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations/oneStep.anim": {
+    "time": 1678713439292.3142,
+    "uuid": "70bc01d4-3385-4e3b-a311-9b31bb4f8738",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations/twoStep.anim.meta": {
+    "time": 1678700600804.9368
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Animations/twoStep.anim": {
+    "time": 1678713791159.0723,
+    "uuid": "c1aaa5fd-bb3b-4986-8920-cf604cc71e49",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts.meta": {
+    "time": 1678700859634.177
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Scripts/GameManager.ts": {
+    "time": 1678714649257.353,
+    "uuid": "9d5cffa2-a521-4645-b697-4769810f6b3c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Prefabs.meta": {
+    "time": 1678701282864.7192
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Prefabs": {
+    "time": 1678701345210.7532,
+    "uuid": "f7d8e0ef-9f4d-4281-9862-dfd035401ee6",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Prefabs/Cube.prefab.meta": {
+    "time": 1678701345212.6414
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/Prefabs/Cube.prefab": {
+    "time": 1678701345211.892,
+    "uuid": "c298bef3-c19b-4083-8070-e6272c128cd2",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos.meta": {
+    "time": 1678714025397.504
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations.meta": {
+    "time": 1678714025311.3083
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/Cocos.prefab.meta": {
+    "time": 1678714025609.985
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/body.mtl.meta": {
+    "time": 1678714025568.1394
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh.gltf.meta": {
+    "time": 1678714025618.4126
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh_helmet.gltf.meta": {
+    "time": 1678714025621.5168
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel.gltf.meta": {
+    "time": 1678714025602.4854
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel_ibm.bin.meta": {
+    "time": 1678714025601.095
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_squat_anim.bin.meta": {
+    "time": 1678714025627.8445
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01.bin.meta": {
+    "time": 1678714025630.926
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_baseColor.png.meta": {
+    "time": 1678714025652.381
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_emissive.png.meta": {
+    "time": 1678714025652.9211
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_normal.png.meta": {
+    "time": 1678714025682.1057
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png.meta": {
+    "time": 1678714025683.2656
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02.bin.meta": {
+    "time": 1678714025648.9753
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_baseColor.png.meta": {
+    "time": 1678714025718.6643
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_normal.png.meta": {
+    "time": 1678714025722.4385
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png.meta": {
+    "time": 1678714025721.1487
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/helmet.mtl.meta": {
+    "time": 1678714025717.2979
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.bin.meta": {
+    "time": 1678714025711.849
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.gltf.meta": {
+    "time": 1678714026103.2515
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.bin.meta": {
+    "time": 1678714025770.0054
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.gltf.meta": {
+    "time": 1678714026130.959
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.bin.meta": {
+    "time": 1678714025850.2607
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.gltf.meta": {
+    "time": 1678714026133.743
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.bin.meta": {
+    "time": 1678714025964.0728
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.gltf.meta": {
+    "time": 1678714026180.3586
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.bin.meta": {
+    "time": 1678714026136.7097
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.gltf.meta": {
+    "time": 1678714026511.324
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.bin.meta": {
+    "time": 1678714026168.302
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.gltf.meta": {
+    "time": 1678714026510.381
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.bin.meta": {
+    "time": 1678714026180.8188
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.gltf.meta": {
+    "time": 1678714026597.2646
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.bin.meta": {
+    "time": 1678714026336.9053
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.gltf.meta": {
+    "time": 1678714026599.1829
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.bin.meta": {
+    "time": 1678714026546.146
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.gltf.meta": {
+    "time": 1678714026722.5032
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.bin.meta": {
+    "time": 1678714026597.9368
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.gltf.meta": {
+    "time": 1678714026743.566
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos": {
+    "time": 1678714025392.5532,
+    "uuid": "d8da52c6-0127-41a6-9611-3c7718363db2",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations": {
+    "time": 1678714025377.6133,
+    "uuid": "75b08e51-53d1-4bca-b3de-ad7713d25d2c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/body.mtl": {
+    "time": 1678714025423.8616,
+    "uuid": "58cf3db3-e6f4-4943-a076-26157912429c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel_ibm.bin": {
+    "time": 1678714025304.6477,
+    "uuid": "8d2d3098-6841-41fc-af7f-4bac9e32b080",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_skel.gltf": {
+    "time": 1678714025306.0142,
+    "uuid": "90f86573-5baf-41e2-97db-8604d1f42b65",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/Cocos.prefab": {
+    "time": 1678714025567.445,
+    "uuid": "6cd4e8c1-b63f-4bbb-b3db-b323fa08b435",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh.gltf": {
+    "time": 1678714025309.2817,
+    "uuid": "5bee9f0c-9771-4e73-b0ea-0bbb6da67698",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_mesh_helmet.gltf": {
+    "time": 1678714025307.5632,
+    "uuid": "fb9825a0-fd7f-48c5-b121-9af90f9f2011",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocos_squat_anim.bin": {
+    "time": 1678714025303.2524,
+    "uuid": "b9ab6374-4e67-4db2-bb75-0256c62f6c7b",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01.bin": {
+    "time": 1678714025301.373,
+    "uuid": "b3df5b21-2fe6-410e-a10d-3df317e61bb5",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02.bin": {
+    "time": 1678714025288.3171,
+    "uuid": "dcab7d1f-201e-45d8-911c-833cc5427723",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_baseColor.png": {
+    "time": 1678714025299.2502,
+    "uuid": "5f4dd798-2ae6-4bbf-84b4-504bb6cceaed",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_emissive.png": {
+    "time": 1678714025296.6448,
+    "uuid": "026c4a15-e07d-4053-86de-9f9fe30188e5",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_normal.png": {
+    "time": 1678714025295.2107,
+    "uuid": "3af9be2f-93d2-41a0-b7b7-3cc03054b34a",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_01_occlusionRoughnessMetallic.png": {
+    "time": 1678714025291.6895,
+    "uuid": "64b1edbd-75c7-4159-a65a-f1e6d8c9812a",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.bin": {
+    "time": 1678714025378.509,
+    "uuid": "73443895-6d8f-41b5-8e3f-4110d0f4dc31",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/helmet.mtl": {
+    "time": 1678714025707.0496,
+    "uuid": "7e81a899-6c7c-493d-80cf-e4f730e4f48f",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_baseColor.png": {
+    "time": 1678714025287.2742,
+    "uuid": "8949c1f1-9b2b-418c-b150-611a94543416",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_occlusionRoughnessMetallic.png": {
+    "time": 1678714025283.2202,
+    "uuid": "cd618de5-59fc-4899-ba4f-55195f3e24ce",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/cocosfinish_02_normal.png": {
+    "time": 1678714025285.62,
+    "uuid": "19819162-ce3f-4f7c-8889-8b2f35bf274c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.bin": {
+    "time": 1678714025369.843,
+    "uuid": "d1a7cd09-b5d9-422f-a4f3-112d85f1059c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.bin": {
+    "time": 1678714025365.3252,
+    "uuid": "fe407fd3-1b9c-4fb7-9a97-edb4cdae6314",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.bin": {
+    "time": 1678714025348.2078,
+    "uuid": "a1efb6ff-ef74-4037-8801-d310eca22fd5",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_attack.gltf": {
+    "time": 1678714025371.9329,
+    "uuid": "a873a742-b503-4a96-8570-6fe542697035",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_die.gltf": {
+    "time": 1678714025367.3003,
+    "uuid": "caf172df-03b7-4c5a-8a53-93f3e4be5146",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_down.gltf": {
+    "time": 1678714025360.8525,
+    "uuid": "27ac412c-9efa-4ead-8e2c-fe6533c7878f",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.bin": {
+    "time": 1678714025342.892,
+    "uuid": "e9d41da7-da95-4119-8a6c-0937de2adb57",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.bin": {
+    "time": 1678714025337.9878,
+    "uuid": "33a7dcc9-4eed-4d49-baac-d190c3d2a157",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_hurt.gltf": {
+    "time": 1678714025345.5762,
+    "uuid": "cb2cc463-6e7a-4d17-9247-bea8f3cf7bb1",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.bin": {
+    "time": 1678714025326.525,
+    "uuid": "f1d8a0c8-d2d8-473f-a769-803842978f68",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.bin": {
+    "time": 1678714025322.9185,
+    "uuid": "a9e047be-e87a-43d9-bbd5-1b3f5dbe2026",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_jump.gltf": {
+    "time": 1678714025335.603,
+    "uuid": "501da3c5-f2d8-45f7-bc04-5130d58811ff",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_idle.gltf": {
+    "time": 1678714025339.9404,
+    "uuid": "445d5d9d-c56b-4528-bc90-c847357e5d94",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.bin": {
+    "time": 1678714025319.271,
+    "uuid": "7290f264-a898-4355-8041-8514dbd0051f",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_run.gltf": {
+    "time": 1678714025324.7705,
+    "uuid": "50735e20-7211-4e9c-b676-4d648cdc0cbb",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.bin": {
+    "time": 1678714025315.7153,
+    "uuid": "e08b2140-55f5-4d1f-af55-565183504a80",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_shoot.gltf": {
+    "time": 1678714025321.1196,
+    "uuid": "1cf73293-3e10-49c1-bfa1-59daaadbd18b",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_squat.gltf": {
+    "time": 1678714025317.4548,
+    "uuid": "58c9fdbf-de49-4141-83fa-9ad83f78591c",
+    "missing": false
+  },
+  "/Users/apple/Desktop/cocos_creator/MindYourStep/assets/cocos/animations/cocos_anim_walk.gltf": {
+    "time": 1678714025313.7898,
+    "uuid": "b1cb32e6-c8c9-40c9-9d52-119dae416b32",
+    "missing": false
+  }
+}
